@@ -12,3 +12,5 @@ The package used is statsmodel.api runned in python.
 
 ## Main results
 
+![](Modelo_transferencia/sankeymatic_800x800%20(1).png)
+
