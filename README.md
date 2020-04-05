@@ -5,7 +5,7 @@ This project aims to determine how was vote transfered from the 2019 PASO (argen
 
 ## How?
 
-To determine vote transfer a multivariate linear regression model is used, where the independent variables are the percentages obtained by each party in each voting table across the entire country in the PASO election, whereas the dependent variables are the percentages obtained by each party in the general election in each voting table across the entire country. 
+To determine vote transfer a multivariate linear regression model was used in which, the independent variables are the percentages obtained by each party in each voting table across the entire country in the PASO election, whereas the dependent variables are the percentages obtained by each party in the general election in each voting table across the entire country. 
 The package used is statsmodel.api runned in python.
 
 
